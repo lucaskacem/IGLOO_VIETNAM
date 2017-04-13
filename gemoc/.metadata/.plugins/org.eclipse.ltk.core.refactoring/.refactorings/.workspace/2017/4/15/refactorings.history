@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 10 resources" deleteContents="false" description="Delete 10 resources" element1="/fr.cnrs.luchogie.ultimateplotter" element10="/org.gemoc.sample.sigpml.xsigpml.editor" element2="/org.gemoc.sample.sigpml" element3="/org.gemoc.sample.sigpml.k3dsa" element4="/org.gemoc.sample.sigpml.moc.dse" element5="/org.gemoc.sample.sigpml.moc.lib" element6="/org.gemoc.sample.sigpml.model" element7="/org.gemoc.sample.sigpml.xsigpml" element8="/org.gemoc.sample.sigpml.xsigpml.design" element9="/org.gemoc.sample.sigpml.xsigpml.edit" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="10" stamp="1492075292307"/>
+</session>

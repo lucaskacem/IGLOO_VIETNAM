@@ -1,0 +1,8 @@
+# List of the Java classes that have been aspectized and name of the aspect classes separated by comma
+	org.gemoc.sample.sigpml.System = org.gemoc.sample.sigpml.k3dsa.SystemAspect
+	org.gemoc.sample.sigpml.Agent = org.gemoc.sample.sigpml.k3dsa.AgentAspect
+	org.gemoc.sample.sigpml.InputPort = org.gemoc.sample.sigpml.k3dsa.InputPortAspect
+	org.gemoc.sample.sigpml.OutputPort = org.gemoc.sample.sigpml.k3dsa.OutputPortAspect
+	org.gemoc.sample.sigpml.NamedElement = org.gemoc.sample.sigpml.k3dsa.NamedElementAspect
+	org.gemoc.sample.sigpml.HWComputationalResource = org.gemoc.sample.sigpml.k3dsa.HWComputationalResourceAspect
+	org.gemoc.sample.sigpml.Place = org.gemoc.sample.sigpml.k3dsa.PlaceAspect

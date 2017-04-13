@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1492053468237" transient="false" version="3.0">
+<site enabled="true" policy="USER-EXCLUDE" updateable="true" url="platform:/base/">
+<feature id="org.eclipse.ecf.filetransfer.httpclient4.feature" url="features/org.eclipse.ecf.filetransfer.httpclient4.feature_3.12.0.v20151130-0157/" version="3.12.0.v20151130-0157">
+</feature>
+<feature id="org.eclipse.help" plugin-identifier="org.eclipse.help.base" url="features/org.eclipse.help_2.1.2.v20160212-1500/" version="2.1.2.v20160212-1500">
+</feature>
+<feature id="fr.inria.aoste.timesquare.backend.power.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.backend.power.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="fr.inria.aoste.timesquare.backend.codeexecution.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.backend.codeexecution.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.sirius.runtime.ide.ui" plugin-identifier="org.eclipse.sirius.common.ui" url="features/org.eclipse.sirius.runtime.ide.ui_3.1.4.201602091241/" version="3.1.4.201602091241">
+</feature>
+<feature id="org.eclipse.help.source" url="features/org.eclipse.help.source_2.1.2.v20160212-1500/" version="2.1.2.v20160212-1500">
+</feature>
+<feature id="org.codehaus.groovy.headless.feature" url="features/org.codehaus.groovy.headless.feature_2.9.2.xx-201608111527-e45/" version="2.9.2.xx-201608111527-e45">
+</feature>
+<feature id="org.gemoc.concurrent_addons.feature" url="features/org.gemoc.concurrent_addons.feature_2.2.0.201610061216/" version="2.2.0.201610061216">
+</feature>
+<feature id="org.eclipse.cvs.source" url="features/org.eclipse.cvs.source_1.4.201.v20160212-1500/" version="1.4.201.v20160212-1500">
+</feature>
+<feature id="org.eclipse.ocl.examples.unified.core.source" url="features/org.eclipse.ocl.examples.unified.core.source_3.4.5.v20150927-2155/" version="3.4.5.v20150927-2155">
+</feature>
+<feature id="org.eclipse.egit" url="features/org.eclipse.egit_4.1.1.201511131810-r/" version="4.1.1.201511131810-r">
+</feature>
+<feature id="org.eclipse.emf.ecoretools.design" url="features/org.eclipse.emf.ecoretools.design_3.0.3.201601281323/" version="3.0.3.201601281323">
+</feature>
+<feature id="org.eclipse.emf.query.ocl.source" url="features/org.eclipse.emf.query.ocl.source_1.9.0.201505312221/" version="1.9.0.201505312221">
+</feature>
+<feature id="org.eclipse.ecf.core.ssl.feature" url="features/org.eclipse.ecf.core.ssl.feature_1.1.0.v20151130-0157/" version="1.1.0.v20151130-0157">
+</feature>
+<feature id="org.eclipse.m2m.qvt.oml.sdk" plugin-identifier="org.eclipse.m2m.qvt.oml" url="features/org.eclipse.m2m.qvt.oml.sdk_3.5.0.v20150603-1058/" version="3.5.0.v20150603-1058">
+</feature>
+<feature id="org.eclipse.sirius.specifier.ide.ui" plugin-identifier="org.eclipse.sirius.editor" url="features/org.eclipse.sirius.specifier.ide.ui_3.1.4.201602091241/" version="3.1.4.201602091241">
+</feature>
+<feature id="org.eclipse.gef" url="features/org.eclipse.gef_3.10.1.201508170204/" version="3.10.1.201508170204">
+</feature>
+<feature id="org.eclipse.m2m.qvt.oml.tools.coverage" plugin-identifier="org.eclipse.m2m.qvt.oml" url="features/org.eclipse.m2m.qvt.oml.tools.coverage_1.1.0.v20150526-0905/" version="1.1.0.v20150526-0905">
+</feature>
+<feature id="org.eclipse.ecf.core.ssl.source.feature" url="features/org.eclipse.ecf.core.ssl.source.feature_1.1.0.v20151130-0157/" version="1.1.0.v20151130-0157">
+</feature>
+<feature id="fr.inria.aoste.timesquare.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.sirius.runtime.ocl" plugin-identifier="org.eclipse.sirius.common.ocl" url="features/org.eclipse.sirius.runtime.ocl_3.1.4.201602091241/" version="3.1.4.201602091241">
+</feature>
+<feature id="org.eclipse.emf.codegen.ui" url="features/org.eclipse.emf.codegen.ui_2.8.0.v20160208-0841/" version="2.8.0.v20160208-0841">
+</feature>
+<feature id="fr.inria.diverse.k3.feature" url="features/fr.inria.diverse.k3.feature_3.2.0.v20160508-0048/" version="3.2.0.v20160508-0048">
+</feature>
+<feature id="org.eclipse.ocl.ui.source" url="features/org.eclipse.ocl.ui.source_2.0.0.v20140819-1612/" version="2.0.0.v20140819-1612">
+</feature>
+<feature id="org.gemoc.heterogeneous_coordination_engine.feature" url="features/org.gemoc.heterogeneous_coordination_engine.feature_0.1.0.201610061230/" version="0.1.0.201610061230">
+</feature>
+<feature id="org.eclipse.emf.converter" url="features/org.eclipse.emf.converter_2.11.0.v20160208-0841/" version="2.11.0.v20160208-0841">
+</feature>
+<feature id="org.eclipse.xtext.ui.source" url="features/org.eclipse.xtext.ui.source_2.9.1.v201512180746/" version="2.9.1.v201512180746">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.feature" url="features/org.eclipse.ecf.filetransfer.feature_3.12.0.v20151130-0157/" version="3.12.0.v20151130-0157">
+</feature>
+<feature id="fr.inria.aoste.timesquare.utils.feature" url="features/fr.inria.aoste.timesquare.utils.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.emf.workspace" url="features/org.eclipse.emf.workspace_1.9.0.201506010221/" version="1.9.0.201506010221">
+</feature>
+<feature id="org.gemoc.executionengine.ccsljava.runtime.feature" url="features/org.gemoc.executionengine.ccsljava.runtime.feature_2.2.0.201610061216/" version="2.2.0.201610061216">
+</feature>
+<feature id="org.eclipse.emf.diffmerge.sdk.feature" url="features/org.eclipse.emf.diffmerge.sdk.feature_0.5.0.v20150608-0931/" version="0.5.0.v20150608-0931">
+</feature>
+<feature id="org.eclipse.emf.ecore.source" url="features/org.eclipse.emf.ecore.source_2.11.2.v20160208-0816/" version="2.11.2.v20160208-0816">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.source.feature" url="features/org.eclipse.ecf.filetransfer.source.feature_3.12.0.v20151130-0157/" version="3.12.0.v20151130-0157">
+</feature>
+<feature id="org.eclipse.equinox.p2.core.feature.source" url="features/org.eclipse.equinox.p2.core.feature.source_1.3.100.v20150527-1706/" version="1.3.100.v20150527-1706">
+</feature>
+<feature id="org.gemoc.modeldebugging.trace.generator.feature" url="features/org.gemoc.modeldebugging.trace.generator.feature_1.0.0.201610062236/" version="1.0.0.201610062236">
+</feature>
+<feature id="fr.inria.aoste.timesquare.backend.obeoviewpointanimator.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.backend.obeoviewpointanimator.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.platform.source" url="features/org.eclipse.platform.source_4.5.2.v20160212-1500/" version="4.5.2.v20160212-1500">
+</feature>
+<feature id="org.eclipse.xtend.sdk" plugin-identifier="org.eclipse.xtend.ide" url="features/org.eclipse.xtend.sdk_2.9.1.v201512180746/" version="2.9.1.v201512180746">
+</feature>
+<feature id="org.eclipse.pde.source" url="features/org.eclipse.pde.source_3.11.2.v20160212-1500/" version="3.11.2.v20160212-1500">
+</feature>
+<feature id="org.eclipse.emf.mapping" url="features/org.eclipse.emf.mapping_2.9.0.v20160208-0841/" version="2.9.0.v20160208-0841">
+</feature>
+<feature id="org.eclipse.equinox.p2.user.ui" url="features/org.eclipse.equinox.p2.user.ui_2.2.102.v20160129-0947/" version="2.2.102.v20160129-0947">
+</feature>
+<feature id="org.eclipse.emf.ecore" url="features/org.eclipse.emf.ecore_2.11.2.v20160208-0816/" version="2.11.2.v20160208-0816">
+</feature>
+<feature id="org.eclipse.ocl.uml" url="features/org.eclipse.ocl.uml_5.0.2.v20150927-2145/" version="5.0.2.v20150927-2145">
+</feature>
+<feature id="org.eclipse.m2m.qvt.oml.examples" plugin-identifier="org.eclipse.m2m.qvt.oml.samples" url="features/org.eclipse.m2m.qvt.oml.examples_3.5.0.v20150526-0905/" version="3.5.0.v20150526-0905">
+</feature>
+<feature id="org.eclipse.m2m.qvt.oml.tools.coverage.source" url="features/org.eclipse.m2m.qvt.oml.tools.coverage.source_1.1.0.v20150526-0905/" version="1.1.0.v20150526-0905">
+</feature>
+<feature id="org.gemoc.executionengine.ccsljava.feature.source" url="features/org.gemoc.executionengine.ccsljava.feature.source_2.2.0.201610061216/" version="2.2.0.201610061216">
+</feature>
+<feature id="org.eclipse.emf.compare" url="features/org.eclipse.emf.compare_3.1.1.201509120604/" version="3.1.1.201509120604">
+</feature>
+<feature id="org.eclipse.jgit" url="features/org.eclipse.jgit_4.1.1.201511131810-r/" version="4.1.1.201511131810-r">
+</feature>
+<feature id="fr.inria.aoste.trace.feature" plugin-identifier="fr.inria.aoste.trace" url="features/fr.inria.aoste.trace.feature_1.0.1.201604262108/" version="1.0.1.201604262108">
+</feature>
+<feature id="fr.inria.aoste.timesquare.backend.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.backend.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.emf.mapping.ecore.editor" url="features/org.eclipse.emf.mapping.ecore.editor_2.10.0.v20160208-0841/" version="2.10.0.v20160208-0841">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.httpclient4.source.feature" url="features/org.eclipse.ecf.filetransfer.httpclient4.source.feature_3.12.0.v20151130-0157/" version="3.12.0.v20151130-0157">
+</feature>
+<feature id="org.gemoc.commons.feature.source" url="features/org.gemoc.commons.feature.source_0.1.0.201610061211/" version="0.1.0.201610061211">
+</feature>
+<feature id="fr.obeo.dsl.debug.sirius.ui.feature" url="features/fr.obeo.dsl.debug.sirius.ui.feature_1.0.0.201610062236/" version="1.0.0.201610062236">
+</feature>
+<feature id="org.eclipse.xtext.xbase.source" url="features/org.eclipse.xtext.xbase.source_2.9.1.v201512180746/" version="2.9.1.v201512180746">
+</feature>
+<feature id="org.gemoc.modeldebugging.trace.commons.feature" url="features/org.gemoc.modeldebugging.trace.commons.feature_1.0.0.201610062236/" version="1.0.0.201610062236">
+</feature>
+<feature id="org.eclipse.e4.rcp.source" url="features/org.eclipse.e4.rcp.source_1.4.1.v20160212-1350/" version="1.4.1.v20160212-1350">
+</feature>
+<feature id="org.eclipse.gmf.runtime.thirdparty" url="features/org.eclipse.gmf.runtime.thirdparty_1.9.0.201506060219/" version="1.9.0.201506060219">
+</feature>
+<feature id="org.eclipse.m2m.qvt.oml" url="features/org.eclipse.m2m.qvt.oml_3.5.0.v20150603-1058/" version="3.5.0.v20150603-1058">
+</feature>
+<feature id="org.eclipse.equinox.p2.core.feature" url="features/org.eclipse.equinox.p2.core.feature_1.3.100.v20150527-1706/" version="1.3.100.v20150527-1706">
+</feature>
+<feature id="org.eclipse.elk.feature" plugin-identifier="org.eclipse.elk.core" url="features/org.eclipse.elk.feature_0.1.0.201607121925/" version="0.1.0.201607121925">
+</feature>
+<feature id="org.eclipse.m2m.qvt.oml.editor" plugin-identifier="org.eclipse.m2m.qvt.oml.editor.ui" url="features/org.eclipse.m2m.qvt.oml.editor_3.5.0.v20150603-1058/" version="3.5.0.v20150603-1058">
+</feature>
+<feature id="org.gemoc.modeldebugging.trace.manager.feature" url="features/org.gemoc.modeldebugging.trace.manager.feature_1.0.0.201610062236/" version="1.0.0.201610062236">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.ssl.feature" url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.0.v20151130-0157/" version="1.1.0.v20151130-0157">
+</feature>
+<feature id="org.eclipse.fx.ide.basic.feature" url="features/org.eclipse.fx.ide.basic.feature_2.1.0.201508240705/" version="2.1.0.201508240705">
+</feature>
+<feature id="fr.inria.aoste.timesquare.ecl.transfos.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.ecl.transfos.feature_1.0.0.201609300715/" version="1.0.0.201609300715">
+</feature>
+<feature id="org.eclipse.ocl.all.source" url="features/org.eclipse.ocl.all.source_5.0.5.v20150927-2146/" version="5.0.5.v20150927-2146">
+</feature>
+<feature id="org.eclipse.emf.query.doc" url="features/org.eclipse.emf.query.doc_1.9.0.201505312221/" version="1.9.0.201505312221">
+</feature>
+<feature id="org.eclipse.ocl.examples.unified" url="features/org.eclipse.ocl.examples.unified_3.4.5.v20150927-2155/" version="3.4.5.v20150927-2155">
+</feature>
+<feature id="fr.inria.aoste.timesquare.vcd.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.vcd.feature_1.3.1.201604262108/" version="1.3.1.201604262108">
+</feature>
+<feature id="org.eclipse.ocl.doc" url="features/org.eclipse.ocl.doc_3.4.1.v20141027-1335/" version="3.4.1.v20141027-1335">
+</feature>
+<feature id="org.eclipse.emf.edit" url="features/org.eclipse.emf.edit_2.11.1.v20160208-0841/" version="2.11.1.v20160208-0841">
+</feature>
+<feature id="org.gemoc.mocc.feature" url="features/org.gemoc.mocc.feature_0.1.1.201610061213/" version="0.1.1.201610061213">
+</feature>
+<feature id="org.eclipse.emf.databinding.edit" url="features/org.eclipse.emf.databinding.edit_1.4.0.v20160208-0841/" version="1.4.0.v20160208-0841">
+</feature>
+<feature id="org.eclipse.jdt.source" url="features/org.eclipse.jdt.source_3.11.2.v20160212-1500/" version="3.11.2.v20160212-1500">
+</feature>
+<feature id="org.eclipse.emf.codegen.ecore" url="features/org.eclipse.emf.codegen.ecore_2.11.1.v20160208-0841/" version="2.11.1.v20160208-0841">
+</feature>
+<feature id="org.eclipse.m2e.feature" plugin-identifier="org.eclipse.m2e.core" url="features/org.eclipse.m2e.feature_1.6.2.20150902-0002/" version="1.6.2.20150902-0002">
+</feature>
+<feature id="fr.inria.aoste.timesquare.duration.model.feature" url="features/fr.inria.aoste.timesquare.duration.model.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.ocl.core.sdk.source" url="features/org.eclipse.ocl.core.sdk.source_5.0.5.v20150927-2146/" version="5.0.5.v20150927-2146">
+</feature>
+<feature id="org.gemoc.mocc.transformations.feature" url="features/org.gemoc.mocc.transformations.feature_0.0.1.201610061221/" version="0.0.1.201610061221">
+</feature>
+<feature id="fr.inria.aoste.timesquare.nobackend.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.nobackend.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.emf.query.ocl" url="features/org.eclipse.emf.query.ocl_1.9.0.201505312221/" version="1.9.0.201505312221">
+</feature>
+<feature id="fr.inria.aoste.timesquare.ccslkernel.solver.feature" url="features/fr.inria.aoste.timesquare.ccslkernel.solver.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.xtext.docs" url="features/org.eclipse.xtext.docs_2.9.1.v201512180746/" version="2.9.1.v201512180746">
+</feature>
+<feature id="org.eclipse.team.svn" url="features/org.eclipse.team.svn_3.0.4.I20160131-1700/" version="3.0.4.I20160131-1700">
+</feature>
+<feature id="org.eclipse.emf.common.ui" url="features/org.eclipse.emf.common.ui_2.10.1.v20160208-0841/" version="2.10.1.v20160208-0841">
+</feature>
+<feature id="org.gemoc.mocc.graphical.editors.feature" url="features/org.gemoc.mocc.graphical.editors.feature_0.1.1.201610061213/" version="0.1.1.201610061213">
+</feature>
+<feature id="org.eclipse.sirius.runtime.acceleo" plugin-identifier="org.eclipse.sirius.common.acceleo.mtl" url="features/org.eclipse.sirius.runtime.acceleo_3.1.4.201602091241/" version="3.1.4.201602091241">
+</feature>
+<feature id="org.eclipse.emf.mapping.ui" url="features/org.eclipse.emf.mapping.ui_2.9.0.v20160208-0841/" version="2.9.0.v20160208-0841">
+</feature>
+<feature id="org.eclipse.ocl.edit" url="features/org.eclipse.ocl.edit_5.0.0.v20140524-1436/" version="5.0.0.v20140524-1436">
+</feature>
+<feature id="org.eclipse.ocl.core.sdk" plugin-identifier="org.eclipse.ocl.all" url="features/org.eclipse.ocl.core.sdk_5.0.5.v20150927-2146/" version="5.0.5.v20150927-2146">
+</feature>
+<feature id="org.gemoc.gemoc_studio.branding.feature" plugin-identifier="org.gemoc.gemoc_studio.branding" url="features/org.gemoc.gemoc_studio.branding.feature_2.2.0.201610062243/" version="2.2.0.201610062243">
+</feature>
+<feature id="org.eclipse.ocl.examples" url="features/org.eclipse.ocl.examples_3.4.5.v20150927-2155/" version="3.4.5.v20150927-2155">
+</feature>
+<feature id="org.eclipse.ocl.examples.unified.core" plugin-identifier="org.eclipse.ocl.examples.unified" url="features/org.eclipse.ocl.examples.unified.core_3.4.5.v20150927-2155/" version="3.4.5.v20150927-2155">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.ssl.source.feature" url="features/org.eclipse.ecf.filetransfer.ssl.source.feature_1.1.0.v20151130-0157/" version="1.1.0.v20151130-0157">
+</feature>
+<feature id="fr.inria.aoste.timesquare.ecl.feature" plugin-identifier="fr.inria.aoste.timesquare.ecl.branding" url="features/fr.inria.aoste.timesquare.ecl.feature_1.0.0.201609300715/" version="1.0.0.201609300715">
+</feature>
+<feature id="org.codehaus.groovy.compilerless.feature" plugin-identifier="org.codehaus.groovy.eclipse" url="features/org.codehaus.groovy.compilerless.feature_2.9.2.xx-201608111527-e45/" version="2.9.2.xx-201608111527-e45">
+</feature>
+<feature id="net.sf.eclipsecs" plugin-identifier="net.sf.eclipsecs.branding" url="features/net.sf.eclipsecs_5.7.0.201402131929/" version="5.7.0.201402131929">
+</feature>
+<feature id="org.eclipse.ocl.source" url="features/org.eclipse.ocl.source_3.4.5.v20150927-2146/" version="3.4.5.v20150927-2146">
+</feature>
+<feature id="fr.inria.aoste.timesquare.ccslkernel.compiler.feature" url="features/fr.inria.aoste.timesquare.ccslkernel.compiler.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.gemoc.mocc.timesquare.ccsl.solver.extension.automata.feature" url="features/org.gemoc.mocc.timesquare.ccsl.solver.extension.automata.feature_0.1.1.201610061213/" version="0.1.1.201610061213">
+</feature>
+<feature id="org.gemoc.executionengine.ccsljava.runtime.feature.source" url="features/org.gemoc.executionengine.ccsljava.runtime.feature.source_2.2.0.201610061216/" version="2.2.0.201610061216">
+</feature>
+<feature id="org.eclipse.ocl.examples.unified.source" url="features/org.eclipse.ocl.examples.unified.source_3.4.5.v20150927-2155/" version="3.4.5.v20150927-2155">
+</feature>
+<feature id="org.eclipse.ecf.core.feature" url="features/org.eclipse.ecf.core.feature_1.2.0.v20151130-0157/" version="1.2.0.v20151130-0157">
+</feature>
+<feature id="org.eclipse.gmf.runtime.notation" url="features/org.eclipse.gmf.runtime.notation_1.9.0.201505312221/" version="1.9.0.201505312221">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.httpclient4.ssl.source.feature" url="features/org.eclipse.ecf.filetransfer.httpclient4.ssl.source.feature_1.1.0.v20151130-0157/" version="1.1.0.v20151130-0157">
+</feature>
+<feature id="fr.obeo.dsl.debug.feature" url="features/fr.obeo.dsl.debug.feature_1.0.0.201610062236/" version="1.0.0.201610062236">
+</feature>
+<feature id="fr.inria.aoste.timesquare.core.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.core.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.emf.diffmerge.sdk.source.feature" url="features/org.eclipse.emf.diffmerge.sdk.source.feature_0.5.0.v20150608-0931/" version="0.5.0.v20150608-0931">
+</feature>
+<feature id="org.eclipse.sirius.runtime.aql" plugin-identifier="org.eclipse.sirius.common.acceleo.aql" url="features/org.eclipse.sirius.runtime.aql_3.1.4.201602091241/" version="3.1.4.201602091241">
+</feature>
+<feature id="org.eclipse.sdk" url="features/org.eclipse.sdk_4.5.2.v20160212-1500/" version="4.5.2.v20160212-1500">
+</feature>
+<feature id="org.eclipse.xtext.xbase.lib" url="features/org.eclipse.xtext.xbase.lib_2.9.1.v201512180746/" version="2.9.1.v201512180746">
+</feature>
+<feature id="org.gemoc.modeldebugging.framework.commons.feature" url="features/org.gemoc.modeldebugging.framework.commons.feature_0.1.0.201610062236/" version="0.1.0.201610062236">
+</feature>
+<feature id="org.eclipse.gmf" url="features/org.eclipse.gmf_1.9.0.201506060219/" version="1.9.0.201506060219">
+</feature>
+<feature id="org.gemoc.modeldebugging.executionframework.feature" url="features/org.gemoc.modeldebugging.executionframework.feature_0.1.0.201610062236/" version="0.1.0.201610062236">
+</feature>
+<feature id="org.codehaus.groovy.jdt.patch" plugin-identifier="org.codehaus.groovy.eclipse" url="features/org.codehaus.groovy.jdt.patch_2.9.2.xx-201608111527-e45/" version="2.9.2.xx-201608111527-e45">
+</feature>
+<feature id="org.eclipse.emf.query" url="features/org.eclipse.emf.query_1.9.0.201505312221/" version="1.9.0.201505312221">
+</feature>
+<feature id="org.sonatype.tycho.m2e.feature" url="features/org.sonatype.tycho.m2e.feature_0.7.0.201309291400/" version="0.7.0.201309291400">
+</feature>
+<feature id="org.eclipse.sirius.runtime.ide.xtext" plugin-identifier="org.eclipse.sirius.common.xtext" url="features/org.eclipse.sirius.runtime.ide.xtext_3.1.4.201602091241/" version="3.1.4.201602091241">
+</feature>
+<feature id="org.eclipse.m2m.qvt.oml.doc" url="features/org.eclipse.m2m.qvt.oml.doc_3.5.0.v20150603-1058/" version="3.5.0.v20150603-1058">
+</feature>
+<feature id="org.eclipse.emf.query.source" url="features/org.eclipse.emf.query.source_1.9.0.201505312221/" version="1.9.0.201505312221">
+</feature>
+<feature id="org.eclipse.emf.transaction" url="features/org.eclipse.emf.transaction_1.9.0.201506010221/" version="1.9.0.201506010221">
+</feature>
+<feature id="org.eclipse.equinox.p2.user.ui.source" url="features/org.eclipse.equinox.p2.user.ui.source_2.2.102.v20160129-0947/" version="2.2.102.v20160129-0947">
+</feature>
+<feature id="org.eclipse.xtext.xbase" url="features/org.eclipse.xtext.xbase_2.9.1.v201512180746/" version="2.9.1.v201512180746">
+</feature>
+<feature id="org.eclipse.sirius.runtime.ide.ui.palettepatch" url="features/org.eclipse.sirius.runtime.ide.ui.palettepatch_1.0.0/" version="1.0.0">
+</feature>
+<feature id="org.eclipse.ecf.core.source.feature" url="features/org.eclipse.ecf.core.source.feature_1.2.0.v20151130-0157/" version="1.2.0.v20151130-0157">
+</feature>
+<feature id="org.gemoc.executionengine.ccsljava.runtime.ui.feature" url="features/org.gemoc.executionengine.ccsljava.runtime.ui.feature_2.2.0.201610061216/" version="2.2.0.201610061216">
+</feature>
+<feature id="org.eclipse.emf.common.source" url="features/org.eclipse.emf.common.source_2.11.1.v20160208-0816/" version="2.11.1.v20160208-0816">
+</feature>
+<feature id="org.eclipse.xtext.xtext.ui.source" url="features/org.eclipse.xtext.xtext.ui.source_2.9.1.v201512180746/" version="2.9.1.v201512180746">
+</feature>
+<feature id="fr.inria.aoste.timesquare.ccslkernel.model.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.ccslkernel.model.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.ocl.uml.source" url="features/org.eclipse.ocl.uml.source_5.0.2.v20150927-2145/" version="5.0.2.v20150927-2145">
+</feature>
+<feature id="fr.inria.aoste.timesquare.launcher.feature" url="features/fr.inria.aoste.timesquare.launcher.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.emf.edit.ui" url="features/org.eclipse.emf.edit.ui_2.11.1.v20160208-0841/" version="2.11.1.v20160208-0841">
+</feature>
+<feature id="org.eclipse.rcp" url="features/org.eclipse.rcp_4.5.2.v20160212-1500/" version="4.5.2.v20160212-1500">
+</feature>
+<feature id="org.eclipse.cvs" url="features/org.eclipse.cvs_1.4.201.v20160212-1500/" version="1.4.201.v20160212-1500">
+</feature>
+<feature id="org.eclipse.m2m.qvt.oml.runtime.source" url="features/org.eclipse.m2m.qvt.oml.runtime.source_3.5.0.v20150603-1058/" version="3.5.0.v20150603-1058">
+</feature>
+<feature id="org.gemoc.gel.microgel.feature" url="features/org.gemoc.gel.microgel.feature_0.1.0.201610061226/" version="0.1.0.201610061226">
+</feature>
+<feature id="org.eclipse.ocl.all" url="features/org.eclipse.ocl.all_5.0.5.v20150927-2146/" version="5.0.5.v20150927-2146">
+</feature>
+<feature id="fr.inria.aoste.timesquare.ecl.editor.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.ecl.editor.feature_1.0.0.201609300715/" version="1.0.0.201609300715">
+</feature>
+<feature id="org.eclipse.emf.compare.source" plugin-identifier="org.eclipse.emf.compare" url="features/org.eclipse.emf.compare.source_3.1.1.201509120604/" version="3.1.1.201509120604">
+</feature>
+<feature id="org.eclipse.xtext.runtime.source" url="features/org.eclipse.xtext.runtime.source_2.9.1.v201512180746/" version="2.9.1.v201512180746">
+</feature>
+<feature id="fr.inria.aoste.timesquare.backend.vcd.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.backend.vcd.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.gemoc.gemoc_studio.additions.feature" url="features/org.gemoc.gemoc_studio.additions.feature_2.2.0.201610062243/" version="2.2.0.201610062243">
+</feature>
+<feature id="org.eclipse.emf.compare.ide.ui" url="features/org.eclipse.emf.compare.ide.ui_3.1.1.201509120604/" version="3.1.1.201509120604">
+</feature>
+<feature id="org.gemoc.mocc.text.editors.feature" url="features/org.gemoc.mocc.text.editors.feature_0.1.1.201610061213/" version="0.1.1.201610061213">
+</feature>
+<feature id="org.eclipse.jdt" url="features/org.eclipse.jdt_3.11.2.v20160212-1500/" version="3.11.2.v20160212-1500">
+</feature>
+<feature id="org.eclipse.ocl.doc.source" url="features/org.eclipse.ocl.doc.source_3.4.1.v20141027-1335/" version="3.4.1.v20141027-1335">
+</feature>
+<feature id="org.eclipse.emf.common" url="features/org.eclipse.emf.common_2.11.1.v20160208-0816/" version="2.11.1.v20160208-0816">
+</feature>
+<feature id="fr.inria.diverse.commons.provisionner4eclipse.feature" url="features/fr.inria.diverse.commons.provisionner4eclipse.feature_1.0.0.201603070919/" version="1.0.0.201603070919">
+</feature>
+<feature id="org.eclipse.sirius.runtime.ide.eef" plugin-identifier="org.eclipse.sirius.eef.adapters" url="features/org.eclipse.sirius.runtime.ide.eef_3.1.4.201602091241/" version="3.1.4.201602091241">
+</feature>
+<feature id="fr.inria.aoste.timesquare.ccslkernel.runtime.feature" url="features/fr.inria.aoste.timesquare.ccslkernel.runtime.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="fr.inria.aoste.timesquare.instantrelation.feature" url="features/fr.inria.aoste.timesquare.instantrelation.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.m2m.qvt.oml.debug" plugin-identifier="org.eclipse.m2m.qvt.oml.debug.core" url="features/org.eclipse.m2m.qvt.oml.debug_1.5.0.v20150603-1058/" version="1.5.0.v20150603-1058">
+</feature>
+<feature id="fr.inria.aoste.timesquare.explorer.ui.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.explorer.ui.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="fr.inria.aoste.timesquare.trace.util.feature" url="features/fr.inria.aoste.timesquare.trace.util.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="fr.obeo.dsl.debug.ui.feature" url="features/fr.obeo.dsl.debug.ui.feature_1.0.0.201610062236/" version="1.0.0.201610062236">
+</feature>
+<feature id="org.gemoc.modeldebugging.xdsmlframework.feature" url="features/org.gemoc.modeldebugging.xdsmlframework.feature_0.1.0.201610062236/" version="0.1.0.201610062236">
+</feature>
+<feature id="org.eclipse.xtext.examples" url="features/org.eclipse.xtext.examples_2.9.1.v201512180746/" version="2.9.1.v201512180746">
+</feature>
+<feature id="org.gemoc.concurrent_addons.feature.source" url="features/org.gemoc.concurrent_addons.feature.source_2.2.0.201610061216/" version="2.2.0.201610061216">
+</feature>
+<feature id="org.eclipse.emf.ecoretools.registration.feature" url="features/org.eclipse.emf.ecoretools.registration.feature_0.1.2.201603070919/" version="0.1.2.201603070919">
+</feature>
+<feature id="org.eclipse.ocl.examples.classic.source" url="features/org.eclipse.ocl.examples.classic.source_5.0.5.v20150927-2154/" version="5.0.5.v20150927-2154">
+</feature>
+<feature id="org.eclipse.fx.runtime.min.feature" url="features/org.eclipse.fx.runtime.min.feature_2.1.0.201508240501/" version="2.1.0.201508240501">
+</feature>
+<feature id="org.gemoc.commons.feature" url="features/org.gemoc.commons.feature_0.1.0.201610061211/" version="0.1.0.201610061211">
+</feature>
+<feature id="org.gemoc.executionengine.ccsljava.feature" url="features/org.gemoc.executionengine.ccsljava.feature_2.2.0.201610061216/" version="2.2.0.201610061216">
+</feature>
+<feature id="fr.inria.aoste.timesquare.launcher.ui.feature" url="features/fr.inria.aoste.timesquare.launcher.ui.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.platform" url="features/org.eclipse.platform_4.5.2.v20160212-1500/" version="4.5.2.v20160212-1500">
+</feature>
+<feature id="org.eclipse.emf.validation" url="features/org.eclipse.emf.validation_1.9.0.201505312255/" version="1.9.0.201505312255">
+</feature>
+<feature id="org.eclipse.emf.ecore.edit" url="features/org.eclipse.emf.ecore.edit_2.9.0.v20160208-0841/" version="2.9.0.v20160208-0841">
+</feature>
+<feature id="org.eclipse.e4.rcp" url="features/org.eclipse.e4.rcp_1.4.1.v20160212-1350/" version="1.4.1.v20160212-1350">
+</feature>
+<feature id="fr.inria.aoste.timesquare.ccslkernel.solver.priorities.model.feature" url="features/fr.inria.aoste.timesquare.ccslkernel.solver.priorities.model.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="fr.inria.aoste.timesquare.antlr311.runtime.feature" plugin-identifier="fr.inria.aoste.timesquare.antlr311.runtime" url="features/fr.inria.aoste.timesquare.antlr311.runtime.feature_3.1.3.201604262108/" version="3.1.3.201604262108">
+</feature>
+<feature id="org.gemoc.execution.sequential.javaxdsml.feature" url="features/org.gemoc.execution.sequential.javaxdsml.feature_2.2.0.201610062236/" version="2.2.0.201610062236">
+</feature>
+<feature id="org.eclipse.emf.mapping.ecore" url="features/org.eclipse.emf.mapping.ecore_2.9.0.v20160208-0841/" version="2.9.0.v20160208-0841">
+</feature>
+<feature id="fr.inria.aoste.timesquare.simulationpolicy.feature" plugin-identifier="fr.inria.aoste.timesquare.simulationpolicy" url="features/fr.inria.aoste.timesquare.simulationpolicy.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.codehaus.groovy23.feature" plugin-identifier="org.codehaus.groovy.eclipse" url="features/org.codehaus.groovy23.feature_2.9.2.xx-201608111527-e45/" version="2.9.2.xx-201608111527-e45">
+</feature>
+<feature id="org.eclipse.emf.codegen" url="features/org.eclipse.emf.codegen_2.11.0.v20160208-0841/" version="2.11.0.v20160208-0841">
+</feature>
+<feature id="org.eclipse.m2e.logback.feature" plugin-identifier="org.eclipse.m2e.logback.configuration" url="features/org.eclipse.m2e.logback.feature_1.6.2.20150902-0002/" version="1.6.2.20150902-0002">
+</feature>
+<feature id="org.eclipse.team.svn.resource.ignore.rules.jdt" url="features/org.eclipse.team.svn.resource.ignore.rules.jdt_3.0.0.I20150529-1700/" version="3.0.0.I20150529-1700">
+</feature>
+<feature id="org.eclipse.emf" url="features/org.eclipse.emf_2.11.2.v20160208-0841/" version="2.11.2.v20160208-0841">
+</feature>
+<feature id="fr.inria.aoste.timesquare.ccslkernel.clocktree.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.ccslkernel.clocktree.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.rcp.source" url="features/org.eclipse.rcp.source_4.5.2.v20160212-1500/" version="4.5.2.v20160212-1500">
+</feature>
+<feature id="org.gemoc.mocc.core.feature" url="features/org.gemoc.mocc.core.feature_0.1.1.201610061213/" version="0.1.1.201610061213">
+</feature>
+<feature id="org.eclipse.emf.query.sdk" url="features/org.eclipse.emf.query.sdk_1.9.0.201505312221/" version="1.9.0.201505312221">
+</feature>
+<feature id="org.eclipse.draw2d" url="features/org.eclipse.draw2d_3.10.1.201508170204/" version="3.10.1.201508170204">
+</feature>
+<feature id="org.eclipse.xtext.runtime" url="features/org.eclipse.xtext.runtime_2.9.1.v201512180746/" version="2.9.1.v201512180746">
+</feature>
+<feature id="org.gemoc.official_samples.deployers.feature" url="features/org.gemoc.official_samples.deployers.feature_0.1.0.201610061211/" version="0.1.0.201610061211">
+</feature>
+<feature id="fr.inria.aoste.timesquare.duration.editor.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.duration.editor.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.ocl.examples.classic" url="features/org.eclipse.ocl.examples.classic_5.0.5.v20150927-2154/" version="5.0.5.v20150927-2154">
+</feature>
+<feature id="org.eclipse.fx.ide.rrobot.feature" url="features/org.eclipse.fx.ide.rrobot.feature_2.1.0.201508240705/" version="2.1.0.201508240705">
+</feature>
+<feature id="org.eclipse.m2m.qvt.oml.source" url="features/org.eclipse.m2m.qvt.oml.source_3.5.0.v20150603-1058/" version="3.5.0.v20150603-1058">
+</feature>
+<feature id="org.eclipse.fx.ide.pde.feature" url="features/org.eclipse.fx.ide.pde.feature_2.1.0.201508240705/" version="2.1.0.201508240705">
+</feature>
+<feature id="org.eclipse.xtext.xbase.lib.source" url="features/org.eclipse.xtext.xbase.lib.source_2.9.1.v201512180746/" version="2.9.1.v201512180746">
+</feature>
+<feature id="org.eclipse.equinox.p2.discovery.feature" url="features/org.eclipse.equinox.p2.discovery.feature_1.0.300.v20150430-1836/" version="1.0.300.v20150430-1836">
+</feature>
+<feature id="org.eclipse.equinox.p2.rcp.feature" url="features/org.eclipse.equinox.p2.rcp.feature_1.2.101.v20150826-1318/" version="1.2.101.v20150826-1318">
+</feature>
+<feature id="org.eclipse.m2m.qvt.oml.runtime" url="features/org.eclipse.m2m.qvt.oml.runtime_3.5.0.v20150603-1058/" version="3.5.0.v20150603-1058">
+</feature>
+<feature id="org.eclipse.xtext.examples.source" url="features/org.eclipse.xtext.examples.source_2.9.1.v201512180746/" version="2.9.1.v201512180746">
+</feature>
+<feature id="fr.inria.aoste.timesquare.ccslkernel.solver.priorities.editor.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.ccslkernel.solver.priorities.editor.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.xtext.ui" url="features/org.eclipse.xtext.ui_2.9.1.v201512180746/" version="2.9.1.v201512180746">
+</feature>
+<feature id="org.eclipse.epp.mpc" plugin-identifier="org.eclipse.epp.mpc.ui" url="features/org.eclipse.epp.mpc_1.4.2.v20160210-2005/" version="1.4.2.v20160210-2005">
+</feature>
+<feature id="org.aspectj" plugin-identifier="org.eclipse.aspectj" url="features/org.aspectj_1.8.6.20150608154244/" version="1.8.6.20150608154244">
+</feature>
+<feature id="org.eclipse.ocl.examples.source" url="features/org.eclipse.ocl.examples.source_3.4.5.v20150927-2155/" version="3.4.5.v20150927-2155">
+</feature>
+<feature id="org.gemoc.bcool.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/org.gemoc.bcool.feature_1.0.0.201610061000/" version="1.0.0.201610061000">
+</feature>
+<feature id="org.codehaus.groovy.eclipse.feature" plugin-identifier="org.codehaus.groovy.eclipse" url="features/org.codehaus.groovy.eclipse.feature_2.9.2.xx-201608111527-e45/" version="2.9.2.xx-201608111527-e45">
+</feature>
+<feature id="org.eclipse.equinox.p2.rcp.feature.source" url="features/org.eclipse.equinox.p2.rcp.feature.source_1.2.101.v20150826-1318/" version="1.2.101.v20150826-1318">
+</feature>
+<feature id="org.gemoc.concurrent.official_samples.deployers.feature" url="features/org.gemoc.concurrent.official_samples.deployers.feature_0.1.0.201610061211/" version="0.1.0.201610061211">
+</feature>
+<feature id="org.eclipse.pde" url="features/org.eclipse.pde_3.11.2.v20160212-1500/" version="3.11.2.v20160212-1500">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.httpclient4.ssl.feature" url="features/org.eclipse.ecf.filetransfer.httpclient4.ssl.feature_1.1.0.v20151130-0157/" version="1.1.0.v20151130-0157">
+</feature>
+<feature id="org.gemoc.executionengine.ccsljava.runtime.ui.feature.source" url="features/org.gemoc.executionengine.ccsljava.runtime.ui.feature.source_2.2.0.201610061216/" version="2.2.0.201610061216">
+</feature>
+<feature id="fr.inria.aoste.timesquare.ccslkernel.clocktree.generator.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.ccslkernel.clocktree.generator.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.xtext.xtext.ui" url="features/org.eclipse.xtext.xtext.ui_2.9.1.v201512180746/" version="2.9.1.v201512180746">
+</feature>
+<feature id="org.eclipse.ocl.edit.source" url="features/org.eclipse.ocl.edit.source_5.0.0.v20140524-1436/" version="5.0.0.v20140524-1436">
+</feature>
+<feature id="org.eclipse.equinox.weaving.sdk" url="features/org.eclipse.equinox.weaving.sdk_1.1.0.weaving-hook-20140821/" version="1.1.0.weaving-hook-20140821">
+</feature>
+<feature id="org.polarion.eclipse.team.svn.connector.svnkit18" url="features/org.polarion.eclipse.team.svn.connector.svnkit18_5.0.3.I20160701-1700/" version="5.0.3.I20160701-1700">
+</feature>
+<feature id="fr.inria.aoste.timesquare.javabdd.feature" plugin-identifier="fr.inria.aoste.timesquare.javabdd.runtime" url="features/fr.inria.aoste.timesquare.javabdd.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.sirius.doc.feature" plugin-identifier="org.eclipse.sirius.doc" url="features/org.eclipse.sirius.doc.feature_3.1.4.201602091241/" version="3.1.4.201602091241">
+</feature>
+<feature id="org.eclipse.m2m.qvt.oml.debug.source" url="features/org.eclipse.m2m.qvt.oml.debug.source_1.5.0.v20150603-1058/" version="1.5.0.v20150603-1058">
+</feature>
+<feature id="org.eclipse.acceleo" plugin-identifier="org.eclipse.acceleo.common" url="features/org.eclipse.acceleo_3.6.3.201602090916/" version="3.6.3.201602090916">
+</feature>
+<feature id="org.eclipse.sirius.specifier.ide.ui.acceleo" plugin-identifier="org.eclipse.sirius.common.acceleo.mtl.ide" url="features/org.eclipse.sirius.specifier.ide.ui.acceleo_3.1.4.201602091241/" version="3.1.4.201602091241">
+</feature>
+<feature id="fr.inria.aoste.timesquare.ccslkernel.compiler.ui.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.ccslkernel.compiler.ui.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.sirius.runtime" plugin-identifier="org.eclipse.sirius" url="features/org.eclipse.sirius.runtime_3.1.4.201602091241/" version="3.1.4.201602091241">
+</feature>
+<feature id="org.eclipse.ajdt" plugin-identifier="org.eclipse.aspectj" url="features/org.eclipse.ajdt_2.2.4.e44x-20150610-1600/" version="2.2.4.e44x-20150610-1600">
+</feature>
+<feature id="org.eclipse.xtext.sdk" plugin-identifier="org.eclipse.xtext" url="features/org.eclipse.xtext.sdk_2.9.1.v201512180746/" version="2.9.1.v201512180746">
+</feature>
+<feature id="fr.inria.aoste.timesquare.backend.codeexecution.xtext.sdk" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.backend.codeexecution.xtext.sdk_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.ocl.all.sdk.source" url="features/org.eclipse.ocl.all.sdk.source_5.0.5.v20150927-2146/" version="5.0.5.v20150927-2146">
+</feature>
+<feature id="org.eclipse.equinox.p2.extras.feature" url="features/org.eclipse.equinox.p2.extras.feature_1.2.101.v20160129-0947/" version="1.2.101.v20160129-0947">
+</feature>
+<feature id="org.eclipse.ocl" plugin-identifier="org.eclipse.ocl.ecore" url="features/org.eclipse.ocl_3.4.5.v20150927-2146/" version="3.4.5.v20150927-2146">
+</feature>
+<feature id="org.eclipse.equinox.p2.extras.feature.source" url="features/org.eclipse.equinox.p2.extras.feature.source_1.2.101.v20160129-0947/" version="1.2.101.v20160129-0947">
+</feature>
+<feature id="org.eclipse.ocl.all.sdk" plugin-identifier="org.eclipse.ocl.all" url="features/org.eclipse.ocl.all.sdk_5.0.5.v20150927-2146/" version="5.0.5.v20150927-2146">
+</feature>
+<feature id="org.polarion.eclipse.team.svn.connector" url="features/org.polarion.eclipse.team.svn.connector_5.0.3.I20160701-1700/" version="5.0.3.I20160701-1700">
+</feature>
+<feature id="org.eclipse.m2m.qvt.oml.editor.source" url="features/org.eclipse.m2m.qvt.oml.editor.source_3.5.0.v20150603-1058/" version="3.5.0.v20150603-1058">
+</feature>
+<feature id="org.eclipse.ocl.ui" url="features/org.eclipse.ocl.ui_2.0.0.v20140819-1612/" version="2.0.0.v20140819-1612">
+</feature>
+<feature id="org.eclipse.emf.codegen.ecore.ui" url="features/org.eclipse.emf.codegen.ecore.ui_2.11.1.v20160208-0841/" version="2.11.1.v20160208-0841">
+</feature>
+<feature id="org.eclipse.emf.ecore.editor" url="features/org.eclipse.emf.ecore.editor_2.11.0.v20160208-0841/" version="2.11.0.v20160208-0841">
+</feature>
+<feature id="org.gemoc.gemoc_studio.branding.source.feature" url="features/org.gemoc.gemoc_studio.branding.source.feature_2.2.0.201610062243/" version="2.2.0.201610062243">
+</feature>
+<feature id="fr.inria.diverse.k3.al.feature" url="features/fr.inria.diverse.k3.al.feature_3.2.0.v20160508-0045/" version="3.2.0.v20160508-0045">
+</feature>
+<feature id="org.eclipse.sirius.runtime.ide.ui.acceleo" plugin-identifier="org.eclipse.sirius.interpreter" url="features/org.eclipse.sirius.runtime.ide.ui.acceleo_3.1.4.201602091241/" version="3.1.4.201602091241">
+</feature>
+<feature id="fr.inria.aoste.timesquare.jgrapht.feature" url="features/fr.inria.aoste.timesquare.jgrapht.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.emf.databinding" url="features/org.eclipse.emf.databinding_1.4.0.v20160208-0841/" version="1.4.0.v20160208-0841">
+</feature>
+<feature id="fr.inria.diverse.melange.sdk" url="features/fr.inria.diverse.melange.sdk_0.2.0.201610060834/" version="0.2.0.201610060834">
+</feature>
+<feature id="fr.inria.aoste.timesquare.ccslkernel.parser.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.ccslkernel.parser.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="fr.inria.aoste.timesquare.ccslkernel.clocktree.ui.feature" plugin-identifier="fr.inria.aoste.timesquare.branding" url="features/fr.inria.aoste.timesquare.ccslkernel.clocktree.ui.feature_1.0.0.201604262108/" version="1.0.0.201604262108">
+</feature>
+<feature id="org.eclipse.emf.ecoretools.sdk" url="features/org.eclipse.emf.ecoretools.sdk_3.0.3.201601281323/" version="3.0.3.201601281323">
+</feature>
+</site>
+</config>
